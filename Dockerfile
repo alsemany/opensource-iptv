@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.13
 
 WORKDIR /var/www/html/
 
